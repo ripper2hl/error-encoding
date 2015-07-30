@@ -1,0 +1,9 @@
+{
+  "generator-bangular": {
+    "version": "0.11.1",
+    "filters": {
+      "backend": "json",
+      "reload": "browsersync"
+    }
+  }
+}
