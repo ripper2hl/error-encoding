@@ -16,4 +16,4 @@
 data=% á é í ó ú&otherData=á é í ó ú
 
 ##Example petition with [rest client](https://addons.mozilla.org/es/firefox/addon/restclient/)
-[![example](http://res.cloudinary.com/jesus-perales/image/upload/v1438286387/Captura_de_pantalla_de_2015-07-30_14_54_12_pcemvd.png)]
+![example](http://res.cloudinary.com/jesus-perales/image/upload/v1438286387/Captura_de_pantalla_de_2015-07-30_14_54_12_pcemvd.png)
